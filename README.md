@@ -1,6 +1,6 @@
-# Personalizing Under Value Conflict: Resolving Contrary Preferences with Paired Fine-Tuning
+# Meet Dynamic Individual Preferences: Resolving Conflicting Human Value with Paired Fine-Tuning
 
-Pair_fine_tuning is the code repository for paper "Personalizing Under Value Conflict: Resolving Contrary Preferences with Paired Fine-Tuning".
+Pair_fine_tuning is the code repository for paper "Meet Dynamic Individual Preferences: Resolving Conflicting Human Value with Paired Fine-Tuning".
 
 ## 🔍 Quick Start
 1. Clone the repository
