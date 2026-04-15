@@ -2,6 +2,10 @@
 
 Pair_fine_tuning is the code repository for paper "Meet Dynamic Individual Preferences: Resolving Conflicting Human Value with Paired Fine-Tuning".
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2604.12479"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
+</p>
+
 ## 🔍 Quick Start
 1. Clone the repository
 
