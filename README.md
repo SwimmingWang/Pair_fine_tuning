@@ -8,7 +8,10 @@ Pair_fine_tuning is the code repository for paper "Meet Dynamic Individual Prefe
 
 ## 🔍 Quick Start
 1. Clone the repository
-
+```
+git clone git@github.com:SwimmingWang/Pair_fine_tuning.git
+cd Pair_fine_tuning
+```
 2. Set up the environment
 ```
 # Python version
@@ -29,3 +32,11 @@ All the data can be found at [data/](data/)
 You can final an example using Qwen2.5-7B-Instruct at [example](example/).
 
 ## 🖊️ Citation
+```
+@article{wang2026meet,
+  title={Meet Dynamic Individual Preferences: Resolving Conflicting Human Value with Paired Fine-Tuning},
+  author={Wang, Shanyong and Lin, Shuhang and Zhao, Yining and Zhu, Xi and Zhang, Yongfeng},
+  journal={arXiv preprint arXiv:2604.12479},
+  year={2026}
+}
+```
